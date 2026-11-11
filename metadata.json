@@ -1,0 +1,6 @@
+{
+  "name": "Gardens by the Bay – 3D Interactive Exhibition Map",
+  "description": "Premium 3D interactive exhibition map experience for Gardens by the Bay, Singapore, featuring architectural landmarks, Supertrees, conservatories, and mobile sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
